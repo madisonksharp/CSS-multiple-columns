@@ -1,0 +1,9 @@
+.container {
+  column-count: 3;
+  column-gap: 40px;
+  column-width: 70px;
+  column-rule: 1px solid rgb(61, 143, 190);
+}
+body {
+  background-color: aliceblue;
+}
