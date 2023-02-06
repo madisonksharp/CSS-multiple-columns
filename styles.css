@@ -4,6 +4,9 @@
   column-width: 70px;
   column-rule: 1px solid rgb(61, 143, 190);
 }
+h2 {
+  break-before: column;
+}
 body {
   background-color: aliceblue;
 }
